@@ -1,6 +1,6 @@
 ## DELANI STUDIO.
 #### Description.
-
+This is Delani project in it it shows the services they are offering.
 ### Author 
 
 Horace Achapa
@@ -19,7 +19,7 @@ JQUERY
 BOOTSTRAP.
 
 #### CONTACT INFORMATION.
-email:jecintawanjirug@gmail.com
+email:horaceachapa@gmail.com
 
 #### LICENCE AND COPYRIGHT.
 MIT License
