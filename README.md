@@ -1,8 +1,9 @@
 ## DELANI STUDIO.
 #### Description.
 
-### This project is about Delani studio which i have recreated it and made it responsive. In it,it shows what delani studio does,their services,designs,products and development managment.This is a link to the delani studio project: https://jecinta534521.github.io/Delani-studio-project./
-created by Jecinta Wanjiru Gathitu.
+### Author 
+
+Horace Achapa
 
 #### SETUP INSTRUCTIONS.
 To go through the Delani Studio project you dont have to follow any basic instructions.
@@ -23,7 +24,7 @@ email:jecintawanjirug@gmail.com
 #### LICENCE AND COPYRIGHT.
 MIT License
 
-Copyright (c) [2019] [JECINTA WANJIRU]
+Copyright (c) [20
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
